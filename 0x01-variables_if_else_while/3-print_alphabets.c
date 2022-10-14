@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - This code prints out the alphabet.
  *
